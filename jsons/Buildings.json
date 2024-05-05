@@ -11,12 +11,12 @@
                 "uniques": ["All newly-trained [Armored] units [in this city] receive the [Machine Gun] promotion","Unbuildable","Unsellable","Turret"]
         },
         {
-                "name": "Turret;Machine Gun",
+                "name": "Turret;Cannon",
                 "cost": 1
                 "uniques": ["All newly-trained [Armored] units [in this city] receive the [Cannon] promotion","Unbuildable","Unsellable","Turret"]
         },
         {
-                "name": "Turret;Machine Gun",
+                "name": "Turret;Anti-Tank Gun",
                 "cost": 1
                 "uniques": ["All newly-trained [Armored] units [in this city] receive the [Anti-Tank Gun] promotion","Unbuildable","Unsellable","Turret"]
         },
