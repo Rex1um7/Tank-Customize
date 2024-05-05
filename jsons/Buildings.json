@@ -3,7 +3,7 @@
                 "name": "Edit Tanks",
                 "cost": 1,
                 "requiredTech": "Combustion",
-                "uniques": ["Unbuildable <hidden from users>","Comment[Design your own tank!!]","Triggers a [Turret] event <hidden from users>","Remove [Edit Tanks] [in this city] <hidden from users>","Blueprints"]
+                "uniques": ["Unbuildable <hidden from users>","Comment:[Design your own tank!!]","Triggers a [Turret] event <hidden from users>","Remove [Edit Tanks] [in this city] <hidden from users>","Blueprints"]
         },
         /*Turret Customs*/
         {
