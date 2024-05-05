@@ -32,7 +32,7 @@
         },
         {
                 "name": "Jet Engine",
-                "uniques": ["[+3] Movement","[+9900]% maintenance costs"]
+                "uniques": ["[+3] Movement","[+2400]% maintenance costs"]
         },
         {
                 "name": "MBT Engine",
