@@ -2,7 +2,7 @@
         /*Turret*/
         {
                 "name": "Machine Gun",
-                "uniques": ["[-50]% Strength <vs [Armored] units> <when attacking>","[+50]% Strength <vs [Gun Powder] units> <when attacking>"]
+                "uniques": ["[-50]% Strength <vs [Armored] units> <when attacking>","[+50]% Strength <vs [Gunpowder] units> <when attacking>"]
         },
         {
                 "name": "Cannon",
