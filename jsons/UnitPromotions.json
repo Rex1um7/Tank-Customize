@@ -1,0 +1,41 @@
+[
+        /*Turret*/
+        {
+                "name": "Machine Gun",
+                "uniques": ["[-50]% Strength <vs [Armored] units> <when attacking>","[+50]% Strength <vs [Gun Powder] units> <when attacking>"]
+        },
+        {
+                "name": "Cannon",
+                "uniques": ["[+25]% Strength <when attacking>"]
+        },
+        {
+                "name": "Anti-Tank Gun",
+                "uniques": ["[-1] Movement","[+100]% Strength <vs [Armored] units> <when attacking>"]
+        },
+        /*Armour*/
+        {
+                "name": "Light",
+                "uniques": ["[+1] Movement","[-50]% Strength <when defending>"]
+        },
+        {
+                "name": "Heavy",
+                "uniques": ["[-1] Movement","[+50]% Strength <when defending>"]
+        },
+        {
+                "name": "Stealth",
+                "uniques": ["[-1] Sight","Invisible to non-adjacent units"]
+        },
+        /*Engine*/
+        {
+                "name": "Gasoline Engine",
+                "uniques": ["[+1] Movement","[+400]% maintenance costs"]
+        },
+        {
+                "name": "Jet Engine",
+                "uniques": ["[+3] Movement","[+9900]% maintenance costs"]
+        },
+        {
+                "name": "MBT Engine",
+                "uniques": ["[+2] Movement","[+900]% maintenance costs"]
+        }
+]
