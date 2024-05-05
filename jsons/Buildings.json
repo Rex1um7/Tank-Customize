@@ -19,5 +19,37 @@
                 "name": "Turret;Machine Gun",
                 "cost": 1
                 "uniques": ["All newly-trained [Armored] units [in this city] receive the [Anti-Tank Gun] promotion","Unbuildable","Unsellable","Turret"]
+        },
+        /*Armour Customs*/
+        {
+                "name": "Armour;Light",
+                "cost": 1
+                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Light] promotion","Unbuildable","Unsellable","Armour"]
+        },
+        {
+                "name": "Armour;Heavy",
+                "cost": 1
+                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Heavy] promotion","Unbuildable","Unsellable","Armour"]
+        },
+        {
+                "name": "Armour;Stealth",
+                "cost": 1
+                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Stealth] promotion","Unbuildable","Unsellable","Armour"]
+        },
+        /*Engine Customs*/
+        {
+                "name": "Engine;Gasoline Engine",
+                "cost": 1
+                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Gasoline Engine] promotion","Unbuildable","Unsellable","Engine"]
+        },
+        {
+                "name": "Engine;Jet Engine",
+                "cost": 1
+                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Jet Engine] promotion","Unbuildable","Unsellable","Engine"]
+        },
+        {
+                "name": "Engine;MBT Engine",
+                "cost": 1
+                "uniques": ["All newly-trained [Armored] units [in this city] receive the [MBT Engine] promotion","Unbuildable","Unsellable","Engine"]
         }
 ]
