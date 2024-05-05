@@ -1,1 +1,86 @@
-
+[
+        {
+                "name": "Turret",
+                "text": "Turret",
+                "choices":[
+                        {
+                                "text": "Howitzer",
+                                "triggeredUniques": ["Remove [Turret] [in this city]"]
+                        },
+                        {
+                                "text": "Machine Gun",
+                                "triggeredUniques": ["Remove [Turret] [in this city]","Gain a free [Turret;Machine Gun] [in this city]"]
+                        },
+			{
+                                "text": "Cannon",
+                                "triggeredUniques": ["Remove [Turret] [in this city]","Gain a free [Turret;Cannon] [in this city]"]
+                        },
+			{
+				"text": "Anti-Tank Gun",
+				"triggeredUniques": ["Remove [Turret] [in this city]","Gain a free [Turret;Anti-Tank Gun] [in this city]"]
+			}
+                ]
+        },
+        {
+                "name": "Armour",
+                "text": "Armour",
+                "choices":[
+                        {
+                                "text": "Medium Armour",
+                                "triggeredUniques": ["Remove [Armour] [in this city]"]
+                        },
+                        {
+                                "text": "Light Armour",
+                                "triggeredUniques": ["Remove [Armour] [in this city]","Gain a free [Armour;Light] [in this city]"]
+                        },
+			{
+                                "text": "Heavy Armour",
+                                "triggeredUniques": ["Remove [Armour] [in this city]","Gain a free [Armour;Heavy] [in this city]"]
+                        },
+			{
+				"text": "Stealth",
+				"triggeredUniques": ["Remove [Armour] [in this city]","Gain a free [Armour;Stealth] [in this city]"]
+			}
+                ]
+        },
+        {
+                "name": "Engine",
+                "text": "Engine",
+                "choices":[
+                        {
+                                "text": "Diesel Engine",
+                                "triggeredUniques": ["Remove [Engine] [in this city]"]
+                        },
+                        {
+                                "text": "Gasoline Engine",
+                                "triggeredUniques": ["Remove [Engine] [in this city]","Gain a free [Engine;Gasoline Engine] [in this city]"]
+                        },
+			{
+                                "text": "Jet Engine",
+                                "triggeredUniques": ["Remove [Engine] [in this city]","Gain a free [Engine;Jet Engine] [in this city]"]
+                        },
+			{
+				"text": "MBT Engine",
+				"triggeredUniques": ["Remove [Engine] [in this city]","Gain a free [Engine;MBT Engine] [in this city]"]
+			}
+                ]
+        },
+        {
+                "name": "Crawler Track",
+                "text": "Crawler Track",
+                "choices":[
+                        {
+                                "text": "WW1",
+                                "triggeredUniques": ["Remove [Crawler Track] [in this city]"]
+                        },
+                        {
+                                "text": "WW2",
+                                "triggeredUniques": ["Remove [Crawler Track] [in this city]","Gain a free [Crawler Track:WW2] [in this city]"]
+                        },
+                        {
+                                "text": "Cold War",
+                                "triggeredUniques": ["Remove [Crawler Track] [in this city]","Gain a free [Crawler Track:Cold War] [in this city]"]
+                        }
+                ]
+        }
+]
