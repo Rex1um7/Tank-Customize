@@ -1,6 +1,7 @@
 [
         {
                 "name": "Edit Tanks",
+                "cost": 1,
                 "requiredTech": "Combustion",
                 "uniques": ["Unbuildable <hidden from users>","Comment[Design your own tank!!]","Triggers a [Turret] event <hidden from users>","Remove [Edit Tank Blueprints] [in this city] <hidden from users>","Blueprints"]
         },
