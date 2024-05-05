@@ -5,19 +5,19 @@
                 "choices":[
                         {
                                 "text": "Howitzer",
-                                "triggeredUniques": ["Remove [Turret] [in this city]"]
+                                "triggeredUniques": ["Remove [Turret] [in all cities]","Triggers a [Armour] event <hidden from users>"]
                         },
                         {
                                 "text": "Machine Gun",
-                                "triggeredUniques": ["Remove [Turret] [in this city]","Gain a free [Turret;Machine Gun] [in this city]"]
+                                "triggeredUniques": ["Remove [Turret] [in all cities]","Gain a free [Turret;Machine Gun] [in all cities]","Triggers a [Armour] event <hidden from users>"]
                         },
 			{
                                 "text": "Cannon",
-                                "triggeredUniques": ["Remove [Turret] [in this city]","Gain a free [Turret;Cannon] [in this city]"]
+                                "triggeredUniques": ["Remove [Turret] [in all cities]","Gain a free [Turret;Cannon] [in all cities]","Triggers a [Armour] event <hidden from users>"]
                         },
 			{
 				"text": "Anti-Tank Gun",
-				"triggeredUniques": ["Remove [Turret] [in this city]","Gain a free [Turret;Anti-Tank Gun] [in this city]"]
+				"triggeredUniques": ["Remove [Turret] [in all cities]","Gain a free [Turret;Anti-Tank Gun] [in all cities]","Triggers a [Armour] event <hidden from users>"]
 			}
                 ]
         },
@@ -27,19 +27,19 @@
                 "choices":[
                         {
                                 "text": "Medium Armour",
-                                "triggeredUniques": ["Remove [Armour] [in this city]"]
-                        },
+                                "triggeredUniques": ["Remove [Armour] [in all cities]","Triggers a [Engine] event <hidden from users>"]
+			},
                         {
                                 "text": "Light Armour",
-                                "triggeredUniques": ["Remove [Armour] [in this city]","Gain a free [Armour;Light] [in this city]"]
+                                "triggeredUniques": ["Remove [Armour] [in all cities]","Gain a free [Armour;Light] [in this city]","Triggers a [Engine] event <hidden from users>"]
                         },
 			{
                                 "text": "Heavy Armour",
-                                "triggeredUniques": ["Remove [Armour] [in this city]","Gain a free [Armour;Heavy] [in this city]"]
+                                "triggeredUniques": ["Remove [Armour] [in all cities]","Gain a free [Armour;Heavy] [in this city]","Triggers a [Engine] event <hidden from users>"]
                         },
 			{
 				"text": "Stealth",
-				"triggeredUniques": ["Remove [Armour] [in this city]","Gain a free [Armour;Stealth] [in this city]"]
+				"triggeredUniques": ["Remove [Armour] [in all cities]","Gain a free [Armour;Stealth] [in this city]","Triggers a [Engine] event <hidden from users>"]
 			}
                 ]
         },
@@ -49,22 +49,23 @@
                 "choices":[
                         {
                                 "text": "Diesel Engine",
-                                "triggeredUniques": ["Remove [Engine] [in this city]"]
+                                "triggeredUniques": ["Remove [Engine] [in all cities]"]
                         },
                         {
                                 "text": "Gasoline Engine",
-                                "triggeredUniques": ["Remove [Engine] [in this city]","Gain a free [Engine;Gasoline Engine] [in this city]"]
+                                "triggeredUniques": ["Remove [Engine] [in all cities]","Gain a free [Engine;Gasoline Engine] [in this city]"]
                         },
 			{
                                 "text": "Jet Engine",
-                                "triggeredUniques": ["Remove [Engine] [in this city]","Gain a free [Engine;Jet Engine] [in this city]"]
+                                "triggeredUniques": ["Remove [Engine] [in all cities]","Gain a free [Engine;Jet Engine] [in this city]"]
                         },
 			{
 				"text": "MBT Engine",
-				"triggeredUniques": ["Remove [Engine] [in this city]","Gain a free [Engine;MBT Engine] [in this city]"]
+				"triggeredUniques": ["Remove [Engine] [in all cities]","Gain a free [Engine;MBT Engine] [in this city]"]
 			}
                 ]
         },
+	/*
         {
                 "name": "Crawler Track",
                 "text": "Crawler Track",
@@ -83,4 +84,5 @@
                         }
                 ]
         }
+	*/
 ]
