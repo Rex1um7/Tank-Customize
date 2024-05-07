@@ -14,7 +14,7 @@
         {
                 "name": "Turret;Cannon",
                 "cost": 1
-                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Cannon] promotion","Unbuildable","Unsellable","Turret"]
+                "uniques": ["[-15]% Production when constructing [Armored] units [in this city]","All newly-trained [Armored] units [in this city] receive the [Cannon] promotion","Unbuildable","Unsellable","Turret"]
         },
         {
                 "name": "Turret;Anti-Tank Gun",
@@ -25,12 +25,12 @@
         {
                 "name": "Armour;Light",
                 "cost": 1
-                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Light] promotion","Unbuildable","Unsellable","Armour"]
+                "uniques": ["[+25]% Production when constructing [Armored] units [in this city]","All newly-trained [Armored] units [in this city] receive the [Light] promotion","Unbuildable","Unsellable","Armour"]
         },
         {
                 "name": "Armour;Heavy",
                 "cost": 1
-                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Heavy] promotion","Unbuildable","Unsellable","Armour"]
+                "uniques": ["[-25]% Production when constructing [Armored] units [in this city]","All newly-trained [Armored] units [in this city] receive the [Heavy] promotion","Unbuildable","Unsellable","Armour"]
         },
         {
                 "name": "Armour;Stealth",
