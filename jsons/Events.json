@@ -13,7 +13,7 @@
                         },
 			{
                                 "text": "Cannon",
-                                "triggeredUniques": ["+25% attack strength","50% cost expensive","Remove [Turret] [in all cities] <hidden from users>","Gain a free [Turret;Cannon] [in all cities] <hidden from users>","Triggers a [Armour] event <hidden from users>"]
+                                "triggeredUniques": ["+25% attack strength","15% cost expensive","Remove [Turret] [in all cities] <hidden from users>","Gain a free [Turret;Cannon] [in all cities] <hidden from users>","Triggers a [Armour] event <hidden from users>"]
                         },
 			{
 				"text": "Anti-Tank Gun",
