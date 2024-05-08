@@ -28,14 +28,14 @@
         /*Engine*/
         {
                 "name": "Gasoline Engine",
-                "uniques": ["[+1] Movement","[+400]% maintenance costs"]
+                "uniques": ["[+1] Movement","Gain [-4] [Gold] <upon turn end>"]
         },
         {
                 "name": "Jet Engine",
-                "uniques": ["[+3] Movement","[+2400]% maintenance costs"]
+                "uniques": ["[+3] Movement","Gain [-24] [Gold] <upon turn end>"]
         },
         {
                 "name": "MBT Engine",
-                "uniques": ["[+2] Movement","[+900]% maintenance costs"]
+                "uniques": ["[+2] Movement","Gain [-9] [Gold] <upon turn end>"]
         }
 ]
