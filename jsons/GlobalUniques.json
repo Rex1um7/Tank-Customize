@@ -1,4 +1,29 @@
 {
         "name": "Global Uniques",
-        "uniques": ["May buy [Blueprints] buildings with [Science] for [1] times their normal Production cost"]
+        "uniques": ["May buy [Blueprints] buildings with [Science] for [1] times their normal Production cost",
+        "Remove [Turret] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [1]% chance>",
+        "Remove [Armour] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [1]% chance>",
+        "Remove [Engine] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance> <when above [0] [Gold]> <when below [200] [Gold]>",
+        
+        "Remove [Turret] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [2]% chance>",
+        "Gain a free [Turret;Machine Gun] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [2]% chance>",
+        "Remove [Turret] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [4]% chance>",
+        "Gain a free [Turret;Cannon] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [4]% chance>",
+        "Remove [Turret] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance>",
+        "Gain a free [Turret;Anti-Tank Gun] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance>",
+
+        "Remove [Armour] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance>",
+        "Gain a free [Armour;Light] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance>",
+        "Remove [Armour] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [4]% chance>",
+        "Gain a free [Armour;Heavy] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [4]% chance>",
+        "Remove [Armour] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [2]% chance>",
+        "Gain a free [Armour;Stealth] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [2]% chance>",
+
+        "Remove [Engine] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance> <when above [200] [Gold]> <when below [1000] [Gold]>",
+        "Gain a free [Engine;Gasoline Engine] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance> <when above [200] [Gold]> <when below [1000] [Gold]>",
+        "Remove [Engine] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance> <when above [2500] [Gold]>",
+        "Gain a free [Engine;Jet Engine] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance> <when above [2500] [Gold]>",
+        "Remove [Engine] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance> <when above [1000] [Gold]> <when below [2500] [Gold]>",
+        "Gain a free [Engine;MBT Engine] [in all cities] <after discovering [Combustion]> <for [AI player]> <upon turn end> <with [3]% chance> <when above [1000] [Gold]> <when below [2500] [Gold]>"
+        ]
 }
