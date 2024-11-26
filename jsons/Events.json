@@ -5,11 +5,17 @@
                 "choices":[
                         {
                                 "text": "Howitzer",
-                                "triggeredUniques": ["Default","Remove [Turret] [in all cities] <hidden from users>","Triggers a [Armour] event <hidden from users>"]
+                                "triggeredUniques": [
+					"Default",
+					"Remove [Turret] [in all cities] <hidden from users>",
+					"Triggers a [Armour] event",
+				]
                         },
                         {
                                 "text": "Machine Gun",
-                                "triggeredUniques": ["+50% attack against Gunpowder","-50% attack against Armor","Remove [Turret] [in all cities] <hidden from users>","Gain a free [Turret;Machine Gun] [in all cities] <hidden from users>","Triggers a [Armour] event <hidden from users>"]
+                                "triggeredUniques": [
+					"+50% attack against Gunpowder",
+					"-50% attack against Armor","Remove [Turret] [in all cities] <hidden from users>","Gain a free [Turret;Machine Gun] [in all cities] <hidden from users>","Triggers a [Armour] event <hidden from users>"]
                         },
 			{
                                 "text": "Cannon",
