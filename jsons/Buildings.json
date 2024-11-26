@@ -3,13 +3,20 @@
                 "name": "Edit Tanks",
                 "cost": 1,
                 "requiredTech": "Combustion",
-                "uniques": ["Unbuildable <hidden from users>","Comment [Let's design your own tank!]","Triggers a [Turret] event <hidden from users>","Remove [Edit Tanks] [in this city] <hidden from users>","Blueprints"]
+                "uniques": [
+                        "Unbuildable <hidden from users>",
+                        "Comment [Let's design your own tank!]",
+                        "Triggers a [Turret] event <hidden from users>",
+                        "Remove [Edit Tanks] [in this city] <hidden from users>",
+                        "Blueprints"
+                ]
         },
         /*Turret Customs*/
         {
                 "name": "Turret;Machine Gun",
                 "cost": 1
-                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Machine Gun] promotion","Unbuildable","Unsellable","Turret"]
+                "uniques": [
+                        "All newly-trained [Armored] units [in this city] receive the [Machine Gun] promotion","Unbuildable","Unsellable","Turret"]
         },
         {
                 "name": "Turret;Cannon",
