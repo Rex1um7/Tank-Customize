@@ -16,7 +16,7 @@
                         {
                                 "text": "Machine Gun",
 				"civilopediaText": [
-					{ "text": "+50% attack against [Gunpowder], -50% attack against Armor", }
+					{ "text": "+50% attack against [Gunpowder]/n, -50% attack against [Armored]", }
 				],
                                 "uniques": [
 					"Remove [Turret] [in capital] <hidden from users>",
@@ -27,7 +27,7 @@
 			{
                                 "text": "Cannon",
 				"civilopediaText": [
-					{ "text": "+25% attack strength, 15% cost expensive", }
+					{ "text": "+25% attack strength/n, 15% cost expensive", }
 				],
                                 "uniques": [
 					"Remove [Turret] [in capital] <hidden from users>",
@@ -38,7 +38,7 @@
 			{
 				"text": "Anti-Tank Gun",
 				"civilopediaText": [
-					{ "text": "+100% attack against [Armored], -1 Movement", }
+					{ "text": "+100% attack against [Armored]/n, -1 Movement", }
 				],
 				"uniques": [
 					"Remove [Turret] [in capital] <hidden from users>",
@@ -65,7 +65,7 @@
                         {
                                 "text": "Light Armour",
 				"civilopediaText": [
-					{ "text": "+1 Movement, -50% defence strength, 25% cost cheap", }
+					{ "text": "+1 Movement/n, -50% defence strength/n, 25% cost cheap", }
 				],
                                 "uniques": [
 					"Remove [Armour] [in capital] <hidden from users>",
@@ -76,7 +76,7 @@
 			{
                                 "text": "Heavy Armour",
 				"civilopediaText": [
-					{ "text": "-1 Movement, +50% defence strength, 25% cost expensive", }
+					{ "text": "-1 Movement/n, +50% defence strength/n, 25% cost expensive", }
 				],
                                 "uniques": [
 					"Remove [Armour] [in capital] <hidden from users>",
@@ -87,7 +87,7 @@
 			{
 				"text": "Stealth",
 				"civilopediaText": [
-					{ "text": "Stealth ability, -1 Sight", }
+					{ "text": "Stealth ability/n, -1 Sight", }
 				],
 				"uniques": [
 					"Remove [Armour] [in capital] <hidden from users>",
@@ -113,7 +113,7 @@
                         {
                                 "text": "Gasoline Engine",
 				"civilopediaText": [
-					{ "text": "+1 Movement, 5 maintenance cost", }
+					{ "text": "+1 Movement/n, 5 maintenance cost", }
 				],
                                 "uniques": [
 					"Remove [Engine] [in capital] <hidden from users>",
@@ -123,7 +123,7 @@
 			{
 				"text": "MBT Engine",
 				"civilopediaText": [
-					{ "text": "+2 Movement, 10 maintenance cost", }
+					{ "text": "+2 Movement/n, 10 maintenance cost", }
 				],
 				"uniques": [
 					"Remove [Engine] [in capital] <hidden from users>",
@@ -133,7 +133,7 @@
 			{
                                 "text": "Jet Engine",
 				"civilopediaText": [
-					{ "text": "+3 Movement, 25 maintenance cost", }
+					{ "text": "+3 Movement/n, 25 maintenance cost", }
 				],
                                 "uniques": [
 					"Remove [Engine] [in capital] <hidden from users>",
