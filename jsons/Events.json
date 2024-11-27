@@ -7,7 +7,7 @@
                                 "text": "Howitzer",
 				"text": "Default",
                                 "uniques": [
-					"Remove [Turret] [in all cities] <hidden from users>",
+					"Remove [Turret] [in capital] <hidden from users>",
 					"Triggers a [Armour] event <hidden from users>",
 				]
                         },
@@ -15,8 +15,8 @@
                                 "text": "Machine Gun",
 				"text": "+50% attack against Gunpowder, -50% attack against Armor",
                                 "uniques": [
-					"Remove [Turret] [in all cities] <hidden from users>",
-					"Gain a free [Turret;Machine Gun] [in all cities] <hidden from users>",
+					"Remove [Turret] [in capital] <hidden from users>",
+					"Gain a free [Turret;Machine Gun] [in capital] <hidden from users>",
 					"Triggers a [Armour] event <hidden from users>"
 				]
                         },
@@ -24,8 +24,8 @@
                                 "text": "Cannon",
 				"text": "+25% attack strength, 15% cost expensive",
                                 "uniques": [
-					"Remove [Turret] [in all cities] <hidden from users>",
-					"Gain a free [Turret;Cannon] [in all cities] <hidden from users>",
+					"Remove [Turret] [in capital] <hidden from users>",
+					"Gain a free [Turret;Cannon] [in capital] <hidden from users>",
 					"Triggers a [Armour] event <hidden from users>"
 				]
                         },
@@ -33,8 +33,8 @@
 				"text": "Anti-Tank Gun",
 				"text": "+100% attack against Armor, -1 Movement",
 				"uniques": [
-					"Remove [Turret] [in all cities] <hidden from users>",
-					"Gain a free [Turret;Anti-Tank Gun] [in all cities] <hidden from users>",
+					"Remove [Turret] [in capital] <hidden from users>",
+					"Gain a free [Turret;Anti-Tank Gun] [in capital] <hidden from users>",
 					"Triggers a [Armour] event <hidden from users>"
 				]
 			}
@@ -48,7 +48,7 @@
                                 "text": "Medium Armour",
 				"text": "Default",
                                 "uniques": [
-					"Remove [Armour] [in all cities] <hidden from users>",
+					"Remove [Armour] [in capital] <hidden from users>",
 					"Triggers a [Engine] event <hidden from users>"
 				]
 			},
@@ -56,8 +56,8 @@
                                 "text": "Light Armour",
 				"text": "+1 Movement, -50% defence strength, 25% cost cheap",
                                 "uniques": [
-					"Remove [Armour] [in all cities] <hidden from users>",
-					"Gain a free [Armour;Light] [in all cities] <hidden from users>",
+					"Remove [Armour] [in capital] <hidden from users>",
+					"Gain a free [Armour;Light] [in capital] <hidden from users>",
 					"Triggers a [Engine] event <hidden from users>"
 				]
                         },
@@ -65,8 +65,8 @@
                                 "text": "Heavy Armour",
 				"text": "-1 Movement, +50% defence strength, 25% cost expensive",
                                 "uniques": [
-					"Remove [Armour] [in all cities] <hidden from users>",
-					"Gain a free [Armour;Heavy] [in all cities] <hidden from users>",
+					"Remove [Armour] [in capital] <hidden from users>",
+					"Gain a free [Armour;Heavy] [in capital] <hidden from users>",
 					"Triggers a [Engine] event <hidden from users>"
 				]
                         },
@@ -74,8 +74,8 @@
 				"text": "Stealth",
 				"text": "Stealth ability, -1 Sight",
 				"uniques": [
-					"Remove [Armour] [in all cities] <hidden from users>",
-					"Gain a free [Armour;Stealth] [in all cities] <hidden from users>",
+					"Remove [Armour] [in capital] <hidden from users>",
+					"Gain a free [Armour;Stealth] [in capital] <hidden from users>",
 					"Triggers a [Engine] event <hidden from users>"
 				]
 			}
@@ -89,31 +89,31 @@
                                 "text": "Diesel Engine",
 				"text": "Default",
                                 "uniques": [
-					"Remove [Engine] [in all cities] <hidden from users>"
+					"Remove [Engine] [in capital] <hidden from users>"
 				]
                         },
                         {
                                 "text": "Gasoline Engine",
 				"text": "+1 Movement, 5 maintenance cost",
                                 "uniques": [
-					"Remove [Engine] [in all cities] <hidden from users>",
-					"Gain a free [Engine;Gasoline Engine] [in all cities] <hidden from users>"
+					"Remove [Engine] [in capital] <hidden from users>",
+					"Gain a free [Engine;Gasoline Engine] [in capital] <hidden from users>"
 				]
                         },
 			{
                                 "text": "Jet Engine",
 				"text": "+3 Movement, 25 maintenance cost",
                                 "uniques": [
-					"Remove [Engine] [in all cities] <hidden from users>",
-					"Gain a free [Engine;Jet Engine] [in all cities] <hidden from users>"
+					"Remove [Engine] [in capital] <hidden from users>",
+					"Gain a free [Engine;Jet Engine] [in capital] <hidden from users>"
 				]
                         },
 			{
 				"text": "MBT Engine",
 				"text": "+2 Movement, 10 maintenance cost",
 				"uniques": [
-					"Remove [Engine] [in all cities] <hidden from users>",
-					"Gain a free [Engine;MBT Engine] [in all cities] <hidden from users>"
+					"Remove [Engine] [in capital] <hidden from users>",
+					"Gain a free [Engine;MBT Engine] [in capital] <hidden from users>"
 				]
 			}
                 ]
