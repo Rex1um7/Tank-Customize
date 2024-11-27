@@ -7,7 +7,7 @@
                         "Unbuildable <hidden from users>",
                         "Comment [Let's design your own tank!]",
                         "Triggers a [Turret] event <hidden from users>",
-                        "Remove [Edit Tanks] [in this city] <hidden from users>",
+                        "Remove [Edit Tanks] [in all cities] <hidden from users>",
                         "Blueprints"
                 ]
         },
@@ -16,48 +16,48 @@
                 "name": "Turret;Machine Gun",
                 "cost": 1
                 "uniques": [
-                        "All newly-trained [Armored] units [in this city] receive the [Machine Gun] promotion","Unbuildable","Unsellable","Turret"]
+                        "All newly-trained [Armored] units [in all cities] receive the [Machine Gun] promotion","Unbuildable","Unsellable","Turret"]
         },
         {
                 "name": "Turret;Cannon",
                 "cost": 1
-                "uniques": ["[-15]% Production when constructing [Armored] units [in this city]","All newly-trained [Armored] units [in this city] receive the [Cannon] promotion","Unbuildable","Unsellable","Turret"]
+                "uniques": ["[-15]% Production when constructing [Armored] units [in all cities]","All newly-trained [Armored] units [in all cities] receive the [Cannon] promotion","Unbuildable","Unsellable","Turret"]
         },
         {
                 "name": "Turret;Anti-Tank Gun",
                 "cost": 1
-                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Anti-Tank Gun] promotion","Unbuildable","Unsellable","Turret"]
+                "uniques": ["All newly-trained [Armored] units [in all cities] receive the [Anti-Tank Gun] promotion","Unbuildable","Unsellable","Turret"]
         },
         /*Armour Customs*/
         {
                 "name": "Armour;Light",
                 "cost": 1
-                "uniques": ["[+25]% Production when constructing [Armored] units [in this city]","All newly-trained [Armored] units [in this city] receive the [Light] promotion","Unbuildable","Unsellable","Armour"]
+                "uniques": ["[+25]% Production when constructing [Armored] units [in all cities]","All newly-trained [Armored] units [in all cities] receive the [Light] promotion","Unbuildable","Unsellable","Armour"]
         },
         {
                 "name": "Armour;Heavy",
                 "cost": 1
-                "uniques": ["[-25]% Production when constructing [Armored] units [in this city]","All newly-trained [Armored] units [in this city] receive the [Heavy] promotion","Unbuildable","Unsellable","Armour"]
+                "uniques": ["[-25]% Production when constructing [Armored] units [in all cities]","All newly-trained [Armored] units [in all cities] receive the [Heavy] promotion","Unbuildable","Unsellable","Armour"]
         },
         {
                 "name": "Armour;Stealth",
                 "cost": 1
-                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Stealth] promotion","Unbuildable","Unsellable","Armour"]
+                "uniques": ["All newly-trained [Armored] units [in all cities] receive the [Stealth] promotion","Unbuildable","Unsellable","Armour"]
         },
         /*Engine Customs*/
         {
                 "name": "Engine;Gasoline Engine",
                 "cost": 1
-                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Gasoline Engine] promotion","Unbuildable","Unsellable","Engine"]
+                "uniques": ["All newly-trained [Armored] units [in all cities] receive the [Gasoline Engine] promotion","Unbuildable","Unsellable","Engine"]
         },
         {
                 "name": "Engine;Jet Engine",
                 "cost": 1
-                "uniques": ["All newly-trained [Armored] units [in this city] receive the [Jet Engine] promotion","Unbuildable","Unsellable","Engine"]
+                "uniques": ["All newly-trained [Armored] units [in all cities] receive the [Jet Engine] promotion","Unbuildable","Unsellable","Engine"]
         },
         {
                 "name": "Engine;MBT Engine",
                 "cost": 1
-                "uniques": ["All newly-trained [Armored] units [in this city] receive the [MBT Engine] promotion","Unbuildable","Unsellable","Engine"]
+                "uniques": ["All newly-trained [Armored] units [in all cities] receive the [MBT Engine] promotion","Unbuildable","Unsellable","Engine"]
         }
 ]
