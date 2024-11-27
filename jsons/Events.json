@@ -5,17 +5,16 @@
                 "choices":[
                         {
                                 "text": "Howitzer",
+				"text": "Default",
                                 "uniques": [
-					"Default",
 					"Remove [Turret] [in all cities] <hidden from users>",
-					"Triggers a [Armour] event",
+					"Triggers a [Armour] event <hidden from users>",
 				]
                         },
                         {
                                 "text": "Machine Gun",
+				"text": "+50% attack against Gunpowder, -50% attack against Armor",
                                 "uniques": [
-					"+50% attack against Gunpowder",
-					"-50% attack against Armor",
 					"Remove [Turret] [in all cities] <hidden from users>",
 					"Gain a free [Turret;Machine Gun] [in all cities] <hidden from users>",
 					"Triggers a [Armour] event <hidden from users>"
@@ -23,9 +22,8 @@
                         },
 			{
                                 "text": "Cannon",
+				"text": "+25% attack strength, 15% cost expensive",
                                 "uniques": [
-					"+25% attack strength",
-					"15% cost expensive",
 					"Remove [Turret] [in all cities] <hidden from users>",
 					"Gain a free [Turret;Cannon] [in all cities] <hidden from users>",
 					"Triggers a [Armour] event <hidden from users>"
@@ -33,9 +31,8 @@
                         },
 			{
 				"text": "Anti-Tank Gun",
+				"text": "+100% attack against Armor, -1 Movement",
 				"uniques": [
-					"+100% attack against Armor",
-					"-1 Movement",
 					"Remove [Turret] [in all cities] <hidden from users>",
 					"Gain a free [Turret;Anti-Tank Gun] [in all cities] <hidden from users>",
 					"Triggers a [Armour] event <hidden from users>"
@@ -49,14 +46,15 @@
                 "choices":[
                         {
                                 "text": "Medium Armour",
+				"text": "Default",
                                 "uniques": [
-					"Default",
-					"Remove [Armour] [in all cities] <hidden from users>",
+					"",					"Remove [Armour] [in all cities] <hidden from users>",
 					"Triggers a [Engine] event <hidden from users>"
 				]
 			},
                         {
                                 "text": "Light Armour",
+				"text": "+25% attack strength, 15% cost expensive",
                                 "uniques": [
 					"+1 Movement",
 					"-50% defence strength",
@@ -68,6 +66,7 @@
                         },
 			{
                                 "text": "Heavy Armour",
+				"text": "+25% attack strength, 15% cost expensive",
                                 "uniques": [
 					"-1 Movement",
 					"+50% defence strength",
@@ -79,6 +78,7 @@
                         },
 			{
 				"text": "Stealth",
+				"text": "+25% attack strength, 15% cost expensive",
 				"uniques": [
 					"Stealth ability",
 					"-1 Sight",
@@ -95,6 +95,7 @@
                 "choices":[
                         {
                                 "text": "Diesel Engine",
+				"text": "+25% attack strength, 15% cost expensive",
                                 "uniques": [
 					"Default",
 					"Remove [Engine] [in all cities] <hidden from users>"
@@ -102,6 +103,7 @@
                         },
                         {
                                 "text": "Gasoline Engine",
+				"text": "+25% attack strength, 15% cost expensive",
                                 "uniques": [
 					"+1 Movement",
 					"5 maintenance cost",
@@ -111,6 +113,7 @@
                         },
 			{
                                 "text": "Jet Engine",
+				"text": "+25% attack strength, 15% cost expensive",
                                 "uniques": [
 					"+3 Movement",
 					"25 maintenance cost",
@@ -120,6 +123,7 @@
                         },
 			{
 				"text": "MBT Engine",
+				"text": "+25% attack strength, 15% cost expensive",
 				"uniques": [
 					"+2 Movement",
 					"10 maintenance cost",
