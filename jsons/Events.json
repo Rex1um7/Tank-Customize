@@ -48,17 +48,14 @@
                                 "text": "Medium Armour",
 				"text": "Default",
                                 "uniques": [
-					"",					"Remove [Armour] [in all cities] <hidden from users>",
+					"Remove [Armour] [in all cities] <hidden from users>",
 					"Triggers a [Engine] event <hidden from users>"
 				]
 			},
                         {
                                 "text": "Light Armour",
-				"text": "+25% attack strength, 15% cost expensive",
+				"text": "+1 Movement, -50% defence strength, 25% cost cheap",
                                 "uniques": [
-					"+1 Movement",
-					"-50% defence strength",
-					"25% cost cheap",
 					"Remove [Armour] [in all cities] <hidden from users>",
 					"Gain a free [Armour;Light] [in all cities] <hidden from users>",
 					"Triggers a [Engine] event <hidden from users>"
@@ -66,11 +63,8 @@
                         },
 			{
                                 "text": "Heavy Armour",
-				"text": "+25% attack strength, 15% cost expensive",
+				"text": "-1 Movement, +50% defence strength, 25% cost expensive",
                                 "uniques": [
-					"-1 Movement",
-					"+50% defence strength",
-					"25% cost expensive",
 					"Remove [Armour] [in all cities] <hidden from users>",
 					"Gain a free [Armour;Heavy] [in all cities] <hidden from users>",
 					"Triggers a [Engine] event <hidden from users>"
@@ -78,10 +72,8 @@
                         },
 			{
 				"text": "Stealth",
-				"text": "+25% attack strength, 15% cost expensive",
+				"text": "Stealth ability, -1 Sight",
 				"uniques": [
-					"Stealth ability",
-					"-1 Sight",
 					"Remove [Armour] [in all cities] <hidden from users>",
 					"Gain a free [Armour;Stealth] [in all cities] <hidden from users>",
 					"Triggers a [Engine] event <hidden from users>"
@@ -95,38 +87,31 @@
                 "choices":[
                         {
                                 "text": "Diesel Engine",
-				"text": "+25% attack strength, 15% cost expensive",
+				"text": "Default",
                                 "uniques": [
-					"Default",
 					"Remove [Engine] [in all cities] <hidden from users>"
 				]
                         },
                         {
                                 "text": "Gasoline Engine",
-				"text": "+25% attack strength, 15% cost expensive",
+				"text": "+1 Movement, 5 maintenance cost",
                                 "uniques": [
-					"+1 Movement",
-					"5 maintenance cost",
 					"Remove [Engine] [in all cities] <hidden from users>",
 					"Gain a free [Engine;Gasoline Engine] [in all cities] <hidden from users>"
 				]
                         },
 			{
                                 "text": "Jet Engine",
-				"text": "+25% attack strength, 15% cost expensive",
+				"text": "+3 Movement, 25 maintenance cost",
                                 "uniques": [
-					"+3 Movement",
-					"25 maintenance cost",
 					"Remove [Engine] [in all cities] <hidden from users>",
 					"Gain a free [Engine;Jet Engine] [in all cities] <hidden from users>"
 				]
                         },
 			{
 				"text": "MBT Engine",
-				"text": "+25% attack strength, 15% cost expensive",
+				"text": "+2 Movement, 10 maintenance cost",
 				"uniques": [
-					"+2 Movement",
-					"10 maintenance cost",
 					"Remove [Engine] [in all cities] <hidden from users>",
 					"Gain a free [Engine;MBT Engine] [in all cities] <hidden from users>"
 				]
