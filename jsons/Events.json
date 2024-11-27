@@ -16,7 +16,7 @@
                         {
                                 "text": "Machine Gun",
 				"civilopediaText": [
-					{ "text": "[+50]% Strength <vs [Gunpowder] units>, [-50]% Strength <vs [Armored] units>", }
+					{ "text": "[+50]% Strength vs [Gunpowder] units, [-50]% Strength vs [Armored] units", }
 				],
                                 "uniques": [
 					"Remove [Turret] [in capital] <hidden from users>",
@@ -38,7 +38,7 @@
 			{
 				"text": "Anti-Tank Gun",
 				"civilopediaText": [
-					{ "text": "[+100]% Strength <vs [Armored] units>, [-1] Movement", }
+					{ "text": "[+100]% Strength vs [Armored] units, [-1] Movement", }
 				],
 				"uniques": [
 					"Remove [Turret] [in capital] <hidden from users>",
@@ -65,7 +65,7 @@
                         {
                                 "text": "Light Armour",
 				"civilopediaText": [
-					{ "text": "[+1] Movement, [-50]% Strength <when defending>, [-25]% maintenance costs", }
+					{ "text": "[+1] Movement, [-50]% Strength when defending, [-25]% maintenance costs", }
 				],
                                 "uniques": [
 					"Remove [Armour] [in capital] <hidden from users>",
@@ -76,7 +76,7 @@
 			{
                                 "text": "Heavy Armour",
 				"civilopediaText": [
-					{ "text": "[-1] Movement, [+50]% Strength <when defending>, [+25]% maintenance costs", }
+					{ "text": "[-1] Movement, [+50]% Strength when defending, [+25]% maintenance costs", }
 				],
                                 "uniques": [
 					"Remove [Armour] [in capital] <hidden from users>",
