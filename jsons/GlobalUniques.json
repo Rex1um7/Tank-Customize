@@ -21,9 +21,9 @@
 
         "Remove [Engine] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [30]% chance> <when above [200] [Gold]> <when below [1000] [Gold]>",
         "Gain a free [Engine;Gasoline Engine] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [30]% chance> <when above [200] [Gold]> <when below [1000] [Gold]>",
-        "Remove [Engine] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [30]% chance> <when above [2500] [Gold]>",
-        "Gain a free [Engine;Jet Engine] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [30]% chance> <when above [2500] [Gold]>",
-        "Remove [Engine] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [30]% chance> <when above [1000] [Gold]> <when below [2500] [Gold]>",
+        "Remove [Engine] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [30]% chance> <when above [1500] [Gold]>",
+        "Gain a free [Engine;Jet Engine] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [30]% chance> <when above [1500] [Gold]>",
+        "Remove [Engine] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [30]% chance> <when above [750] [Gold]> <when below [2500] [Gold]>",
         "Gain a free [Engine;MBT Engine] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [30]% chance> <when above [1000] [Gold]> <when below [2500] [Gold]>"
         ]
 }
