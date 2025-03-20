@@ -1,6 +1,6 @@
 {
         "name": "Global Uniques",
-        "uniques": ["May buy [Blueprints] buildings with [Science] for [1] times their normal Production cost",
+        "uniques": ["May buy [Blueprints] buildings with [Gold] for [1] times their normal Production cost",
         "Remove [Turret] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [10]% chance>",
         "Remove [Armour] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [10]% chance>",
         "Remove [Engine] [in capital] <after discovering [Combustion]> <for [AI player] Civilizations> <upon turn end> <with [10]% chance> <when below [200] [Gold]>",
